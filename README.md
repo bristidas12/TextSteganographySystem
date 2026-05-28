@@ -17,7 +17,7 @@
 - Date and Time Operations
 
 
-##Output :
+## Output :
 1. Encode Message
 2. Decode Message
 3. Exit
