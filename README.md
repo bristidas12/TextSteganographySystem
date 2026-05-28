@@ -23,8 +23,11 @@
 2. Decode Message
 3. Exit
 Enter Your Choice: 1
+
 Enter Cover Text: Hi
+
 Enter Secret Message: Hello
+
 Message encoded successfully!
 Encoded file saved as encoded.txt
 Visible content remains unchanged.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
