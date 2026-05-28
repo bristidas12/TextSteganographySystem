@@ -18,9 +18,9 @@
 
 
 ## Output :
- Encode Message
- Decode Message
- Exit
+Encode Message
+Decode Message
+Exit
 Enter Your Choice: 1
 Enter Cover Text: Hi
 Enter Secret Message: Hello
