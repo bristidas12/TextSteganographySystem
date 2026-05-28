@@ -1,4 +1,4 @@
-package project;
+package textsteganographysystem;
 
 import java.util.Scanner;
 import java.io.*;
