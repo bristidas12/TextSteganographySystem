@@ -16,8 +16,9 @@
 - File Handling
 - Date and Time Operations
 
-##Output:
-output                                                                                                                                                                                                                                                                   1. Encode Message
+
+##Output :
+1. Encode Message
 2. Decode Message
 3. Exit
 Enter Your Choice: 1
@@ -25,3 +26,5 @@ Enter Cover Text: Hi
 Enter Secret Message: Hello
 Message encoded successfully!
 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
